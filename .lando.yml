@@ -1,0 +1,5 @@
+name: wordpress-lab
+recipe: wordpress
+config:
+  webroot: wordpress
+  php: '8.3'
