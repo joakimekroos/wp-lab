@@ -1,5 +1,5 @@
 # wp-lab
-This is a testing setup for Wordpress using Lando, Twig, wp--cli
+This is a testing setup for Wordpress using Lando, Twig, wp-cli
 
 ## Run locally
 
